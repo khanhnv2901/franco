@@ -1,0 +1,22 @@
+BỐ CỤC WEBSITE
+
+1. Header
+    a. Thanh welcome
+    b. Main Header 
+2. Content
+    a. Banner
+    b. Product List
+    c. News & Events (slider)
+
+3. Footer
+    a. About Franco
+    b. Navigation
+    c. Shop Location
+
+
+Banner , NewsEvents và Footer có 3 cột thẳng hàng nhau
+Trong đó Banner có 1 ảnh lớn chiếm 2 cột
+
+Banner có 2 hàng, còn lại 1 hàng
+
+Product list có 2 hàng và 4 cột 
